@@ -1,0 +1,28 @@
+name: Tracing the Text
+favicon: null
+layout_spectrum: 0.8131551104597747
+typography_spectrum: 0.6215385501272976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5587073625065386
+  lightness: 0.3086625568103045
+  saturation: 0.20467251352965832
+  rhythmicContrast: 0.950403766008094
+purpose: []
